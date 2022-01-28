@@ -1,0 +1,197 @@
+
+/* root property */
+.container {
+    margin-bottom: 100px;
+}
+
+/* bg-color */
+.nav-color {
+    background: #f0fff0;
+}
+
+/* nav section */
+
+.nav-left img {
+    width: 250px;
+    height: 80px;
+}
+
+.nav-right li {
+    padding: 0 12px;
+
+}
+.nav-right a {
+    font-size: 19px;
+    font-weight: 500;
+}
+
+.nav-right a:hover {
+    color: tomato !important;
+    transition: 0.3s;
+}
+.nav-right .sign-in {
+    background-color: green;
+    color: white !important;
+    font-weight: 400;
+    width: 130px;
+    text-align: center;
+    border-radius: 30px;
+    border: none;
+}
+
+.nav-right .sign-in:hover {
+    background-color: lightsteelblue;
+}
+
+/* description */
+.des-left span {
+    color: red;
+}
+.des-left h1 {
+    font-size: 50px;
+    font-weight: 700;
+    padding: 20px 25px 20px 0;
+    line-height: 70px;
+}
+.des-left .des-span {
+    color: green;
+}
+.des-left p {
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 40px;
+    margin-bottom: 40px;
+}
+
+.des-left button {
+    border-radius: 30px;
+    width: 130px;
+}
+
+
+/* card */
+.card img{
+    height: 80px;
+    width: 70px;
+}
+
+.img{
+    display: flex;
+    justify-content: center;
+    padding: 25px 0 20px 0;
+}
+
+.card-body{
+    text-align: center;
+}
+
+.card{
+    border: none;
+    border-radius: 10px;
+    background: #f8fffb;
+}
+
+.card:hover{
+    box-shadow: 2px 2px 5px lightgray;
+    background: #FFFFFF;
+}
+.card p{
+    padding: 10px 0 20px 0;
+}
+
+/* showcase  + online courses*/ 
+.card-body p{
+    padding: 20px 0;
+}
+.card-body h5{
+    padding-top:20px;
+}
+
+.card-body button{
+    width: 150px;
+    border-radius: 25px;
+    background: green;
+    border: none;
+    font-size: 20px;
+}
+
+.card-footer{
+    border: none;
+    background: none;
+}
+.card-footer span{
+    font-weight: 500;
+    padding: 5px 2px;
+}
+
+.cardd{
+    box-shadow: 2px 2px 15px lightgray;
+    padding: 10px 15px;
+
+}
+.course-heading h1{
+    color: #413960;
+    font-weight: 700;
+}
+
+/* testimonial */
+
+.left-side img{
+    height: 100px;
+    width: 100px;
+    margin-right: 70px;
+
+}
+
+.right-side p{
+    font-weight: 400;
+    color: black;
+    text-align: center;
+}
+
+/* footer */
+
+.footer-bg{
+    background: #282531;
+    margin-bottom:0px;
+    padding-bottom: 20px;
+}
+
+.footer-top-left span, .footer-bottom{
+    color: white;
+    font-weight: 400;
+    text-align: center;
+}
+
+.footer-top-right{
+    color: white;
+}
+
+.footer-top-right .menu li{
+    list-style: none;
+    margin-left: -30px;
+}
+
+.footer-bg .head h5{
+    margin-bottom: 17px;
+}
+
+.footer-bg .head h5:hover{
+    cursor: pointer;
+}
+
+.footer-bg .menu li{
+    padding-top:5px;
+}
+
+.footer-bg .menu li:hover{
+    cursor: pointer;
+    font-weight: bold;
+}
+
+
+
+
+
+
+
